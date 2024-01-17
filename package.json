@@ -16,5 +16,6 @@
   "license": "ISC",
   "dependencies": {
     "react-scripts": "^5.0.1"
-  }
+  },
+  "homepage": "https://panicor.github.io/react-portfolio-main/"
 }
